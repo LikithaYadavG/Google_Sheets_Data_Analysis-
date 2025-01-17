@@ -1,0 +1,22 @@
+Product Name,Product ID,Units Sold,Price per Unit,Revenue,Profit Margin (%),Customer Rating,
+Apple Iphone,101,50,20,1000,15,4.5,
+Jacket,102,75,25,1875,20,4.8,
+Car Toy,103,100,15,1500,10,4.2,
+Bike Toy,104,60,30,1800,25,4.7,
+Areoplane Toy,105,80,18,1440,12,4.3,
+Samsung,106,90,22,1980,18,4.6,
+LG,107,40,35,1400,22,4.9,
+Scrub,108,120,12,1440,15,4.1,
+Laptop,109,95,28,2660,20,4.4,
+phone,110,70,24,1680,18,4.7,
+fruits,111,85,19,1615,1615,4.5,
+vegetables,112,65,23,1495,16,4.6,
+toys,113,78,21,1638,14,4.2,
+Total,N/A,1391,1008,292,21523,1820,58.5
+Average,N/A,107,77.53846154,22.46153846,1655.615385,140,4.5
+Median,N/A,107,78,22,1615,18,4.5
+Mode,N/A,101,50,20,1440,15,4.5
+Total
+Average
+Median
+Mode
